@@ -2,4 +2,3 @@ Bangalore
 Chennai 
 Delhi
 Hyderbad
-Pune
